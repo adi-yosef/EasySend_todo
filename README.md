@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
+
 # EasySend_todo
-=======
-# ToDoAPP
 
 * clone this repo
 * make sure you have python3 installed
